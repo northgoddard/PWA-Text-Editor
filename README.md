@@ -16,7 +16,7 @@ This project demos my skills with the PWA concepts allow users to quickly downlo
 
 ## Link 
 
- https://northgoddard.github.io/PWA-Text-Editor/
+https://frozen-wave-85886-4e24530f2adc.herokuapp.com/
 
 ## Creator
 
